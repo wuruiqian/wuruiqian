@@ -1,0 +1,13 @@
+1.	Assign the library
+Read in EX and ECG data
+2.	Complete proc transpose step with correct variables
+3.	Calculate the mean hr(Round to 2 decimals)
+4.	Generate BASE column as the baseline
+5.	Select the right duplicated records
+PROC PRINT with the proper title and columns
+Generate the excel file using PROC EXPORT
+6.	Calculate DOF with proper unit for each record 
+Combined DOF values for duplicated records
+7.	Calculate CHG=meanhr-base
+Screening visit should be missing value
+8.	Retain the proper MEANHR
