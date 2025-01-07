@@ -11,3 +11,15 @@ Combined DOF values for duplicated records
 7.	Calculate CHG=meanhr-base
 Screening visit should be missing value
 8.	Retain the proper MEANHR
+Screening records should be excluded
+9.	Retain the proper CHG
+Screening records should be excluded
+10.	Apply structured macro steps
+Exact values for MEANHR and CHG
+11.	Count N and n in ECG5 and ECG6
+Proc Report is used to generate the same form as mock 
+Exact title and header
+12.	Derive baseline summary statistics exactly
+Derive post baseline summary statistics exactly
+Round to appropriate decimals
+Proc Report is used to generate the same form as mock
